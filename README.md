@@ -171,7 +171,6 @@ For user 1, **Movie D** (`movie_id` 4) is the top recommendation with an average
 - [ ] Build a user-item matrix for collaborative filtering
 - [ ] Add a hybrid recommender that combines both approaches
 - [ ] Join user-based results with `movies` to display titles
-- [ ] Load data from CSV files
 - [ ] Add unit tests and continuous integration
 
 ## Contributing
